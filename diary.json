@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "id": "welcome",
+      "title": "Welcome to my diary",
+      "date": "2025-01-01",
+      "summary": "A short hello and what this is about.",
+      "content": "This is a lightweight diary. Add more entries to diary.json and they will instantly show up."
+    }
+  ]
+}
